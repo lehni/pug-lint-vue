@@ -39,7 +39,7 @@
     "eslint-plugin-standard": "^2.0.1",
     "htmlparser2": "^3.9.2",
     "husky": "^0.13.1",
-    "pug-lint": "^2.3.0",
+    "pug-lint": "git://github.com/lehni/pug-lint.git#36ad9f4967b3108c8d18bd1346333a07ee4df5b4",
     "text-table": "^0.2.0",
     "walk": "^2.3.9"
   }
